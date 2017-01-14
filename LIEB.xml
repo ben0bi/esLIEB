@@ -31,8 +31,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<helpsystem name="help">
-			<textColor>7d7d7d</textColor>
-			<iconColor>7d7d7d</iconColor>
+			<textColor>FF33AA</textColor>
+			<iconColor>FF00AA</iconColor>
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
@@ -41,7 +41,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/centerfade.png</path>
-			<color>8b000050</color>
+			<color>FF00AA50</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
@@ -50,11 +50,11 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/bottom.png</path>
-			<color>8b0000c0</color>
+			<color>FF00AAc0</color>
 		</image>
 
 		<image name="ControllerOverlay" extra="true">
-			<color>50d62c</color>
+			<color>FF00AAFF</color>
 		</image>
 
 	</view>
@@ -70,8 +70,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>8b0000</selectedColor>
+			<selectorColor>1c001c</selectorColor>
+			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -97,13 +97,13 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<image name="md_image">
-			<pos>0.763 0.400</pos>
+			<pos>0.763 0.400</pos> 
 			<maxSize>0.453 0.436</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
-			<color>969696</color>
+			<color>9c9c9c</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
@@ -114,7 +114,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<datetime name="md_lastplayed, md_releasedate">
-			<color>969696</color>
+			<color>9c9c9c</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
@@ -150,7 +150,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<text name="md_description">
-			<color>969696</color>
+			<color>9c9c9c</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
@@ -159,8 +159,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>8b0000</selectedColor>
+			<selectorColor>1c001c</selectorColor>
+			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -204,7 +204,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 1</origin>
 			<size>1 0.065</size>
 			<path>./art/bottom.png</path>
-			<color>8b0000</color>
+			<color>FF00AA</color>
 		</image>
 
 		<image name="top" extra="true">
@@ -212,7 +212,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 0</origin>
 			<size>1 0.16</size>
 			<path>./art/top.png</path>
-			<color>8b0000</color>
+			<color>FF00AA</color>
 		</image>
 
 	</view>

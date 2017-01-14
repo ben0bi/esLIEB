@@ -44,8 +44,8 @@
 	<view name="detailed">
 
 		<image name="md_image">
-			<pos>0.746 0.40</pos>
-			<maxSize>0.3 0.3</maxSize>
+			<pos>0.63 0.44</pos>
+			<maxSize>0.12 0.12</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
@@ -57,10 +57,18 @@
 			<pos>1 1</pos>
 		</text>
 
+		<image name="md_description_image" extra="true">
+			<path>./../art/bottom.png</path>
+			<pos>0.520 0.73</pos>
+			<size>0.48 0.2</size>
+			<origin>0 0</origin>
+			<color>FF00AAcc</color>
+		</image>
+
 		<text name="md_description">
 			<fontSize>0.03</fontSize>
 			<size>0.404 0.3</size>
-			<pos>0.543 0.60</pos>
+			<pos>0.543 0.75</pos>
 		</text>
 	</view>
 

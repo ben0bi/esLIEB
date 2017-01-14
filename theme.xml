@@ -6,10 +6,10 @@
 
 		<image name="ControllerOverlay" extra="true">
 			<tile>false</tile>
-			<pos>0.5 0.2</pos>
+			<pos>0.338 0.256</pos>
 			<origin>0.5 0.5</origin>
-			<size>0.3 0</size>
-			<path>./art/controller.svg</path>
+			<size>0.29 0</size>
+			<path>./art/controller_gg.svg</path>
 			<!--<color>8b0000</color>-->
 		</image>
 		
