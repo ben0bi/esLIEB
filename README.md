@@ -5,6 +5,6 @@ Supported Systems:
 
 Desktop (same as pixeldesktop)
 RetroPie Settings
-Nintendo Entertainment System
+Nintendo Entertainment System (no screen image yet)
 Super Nintendo
 Sega Master System
