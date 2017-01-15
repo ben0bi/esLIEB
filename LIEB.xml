@@ -1,6 +1,6 @@
 <!--
 Theme: LIEB
-version: 0.2.3
+version: 0.2.4
 author: Benedict Jaeggi (ben0bi)
 
 based on Carbon
@@ -85,16 +85,16 @@ Element color: Search and replace colors. Do not use spaces!
 		</textlist>
 
 		<image name="md_image_controller">
-			<pos>0.634 0.400</pos> 
+			<pos>0.634 0.41</pos> 
 			<maxSize>0.075 0.1</maxSize>
 			<origin>0.5 0.5</origin>
 			<color>9999FF</color>
 		</image>
 
 		<image name="md_image_system">
-			<pos>0.634 0.48</pos> 
-			<maxSize>0.07 0.06</maxSize>
-			<origin>0.5 1</origin>
+			<pos>0.634 0.47</pos> 
+			<maxSize>0.07 0.08</maxSize>
+			<origin>0.5 0.5</origin>
 		</image>
 
 	</view>
@@ -111,7 +111,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<image name="md_image">
 			<pos>0.633 0.430</pos> 
-			<maxSize>0.075 0.18</maxSize>
+			<maxSize>0.083 0.18</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
