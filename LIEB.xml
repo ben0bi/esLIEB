@@ -1,6 +1,6 @@
 <!--
-Theme: L:IEB
-version: 1.0
+Theme: LIEB
+version: 0.1
 author: Benedict Jaeggi (ben0bi)
 
 based on Carbon
@@ -23,7 +23,7 @@ Element color: Search and replace colors. Do not use spaces!
 
 	<view name="system">
 		<image name="background" extra="true">
-			<tile>true</tile>
+			<tile>false</tile>
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -62,11 +62,11 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="basic">
 
 		<image name="background" extra="true">
-			<tile>true</tile>
+			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/gamegirl.jpg</path>
+			<path>./art/originalgamegirl.png</path>
 		</image>
 
 		<textlist name="gamelist">
@@ -89,11 +89,11 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="detailed">
 
 		<image name="background" extra="true">
-			<tile>true</tile>
+			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/gamegirl.jpg</path>
+			<path>./art/originalgamegirl.png</path>
 		</image>
 
 		<image name="md_image">
@@ -198,6 +198,11 @@ Element color: Search and replace colors. Do not use spaces!
 		</view>
 
 	<view name="basic, detailed">
+
+		<helpsystem name="help">
+			<textColor>FF33AA</textColor>
+			<iconColor>FF00AA</iconColor>
+		</helpsystem>
 
 		<image name="bottom" extra="true">
 			<pos>0 1</pos>
