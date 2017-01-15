@@ -1,6 +1,6 @@
 <!--
 Theme: LIEB
-version: 0.1
+version: 0.2.2
 author: Benedict Jaeggi (ben0bi)
 
 based on Carbon
@@ -41,7 +41,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/centerfade.png</path>
-			<color>FF00AA50</color>
+			<color>AA006650</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
@@ -66,11 +66,11 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/originalgamegirl.png</path>
+			<path>./art/gamegirl_nospacebook.png</path>
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>1c001c</selectorColor>
+			<selectorColor>330033CC</selectorColor>
 			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
@@ -84,6 +84,18 @@ Element color: Search and replace colors. Do not use spaces!
 			<scrollSound>./art/scroll.wav</scrollSound>
 		</textlist>
 
+		<image name="md_image_controller">
+			<pos>0.633 0.430</pos> 
+			<maxSize>0.075 0.1</maxSize>
+			<origin>0.5 0.5</origin>
+			<color>AAAAFF</color>
+		</image>
+		<image name="md_image_system">
+			<pos>0.633 0.52</pos> 
+			<maxSize>0.09 0.04</maxSize>
+			<origin>0.5 1</origin>
+		</image>
+
 	</view>
 
 	<view name="detailed">
@@ -93,13 +105,22 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/originalgamegirl.png</path>
+			<path>./art/gamegirl_nospacebook.png</path>
 		</image>
 
 		<image name="md_image">
-			<pos>0.763 0.400</pos> 
-			<maxSize>0.453 0.436</maxSize>
+			<pos>0.633 0.430</pos> 
+			<maxSize>0.075 0.18</maxSize>
 			<origin>0.5 0.5</origin>
+		</image>
+
+		<image name="md_description_image" extra="true">
+			<tile>false</tile>
+			<size>0.48 0.2</size>
+			<pos>0.52 0.73</pos>
+			<origin>0 0</origin>
+			<path>./art/bottom.png</path>
+			<color>FF00AAc0</color>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
@@ -125,27 +146,27 @@ Element color: Search and replace colors. Do not use spaces!
 		</datetime>
 
 		<datetime name="md_releasedate">
-			<pos>0.53 0.63</pos>
+			<pos>0.53 0.03</pos>
 			<size>0 0.033</size>
 		</datetime>
 
 		<text name="md_genre">
-			<pos>0.53 0.66</pos>
+			<pos>0.53 0.06</pos>
 			<size>0 0.033</size>
 		</text>
 
 		<text name="md_developer">
-			<pos>0.53 0.69</pos>
+			<pos>0.53 0.09</pos>
 			<size>0 0.033</size>
 		</text>
 
 		<text name="md_lbl_players, md_players">
-			<pos>0.91 0.63</pos>
+			<pos>0.85 0.115</pos>
 			<size>0.09 0</size>
 		</text>
 
 		<text name="md_players">
-			<pos>0.98 0.63</pos>
+			<pos>0.90 0.115</pos>
 			<size>0.02 0</size>
 		</text>
 
@@ -159,14 +180,14 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c001c</selectorColor>
+			<selectorColor>330033CC</selectorColor>
 			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.021 0.168</pos>
-			<size>0.489 0.754</size>
+			<size>0.35 0.754</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.00</horizontalMargin>
 			<fontSize>0.03</fontSize>
@@ -201,13 +222,13 @@ Element color: Search and replace colors. Do not use spaces!
 
 		<helpsystem name="help">
 			<textColor>FF33AA</textColor>
-			<iconColor>FF00AA</iconColor>
+			<iconColor>FF33AA</iconColor>
 		</helpsystem>
 
 		<image name="bottom" extra="true">
 			<pos>0 1</pos>
-			<origin>0 1</origin>
-			<size>1 0.065</size>
+			<origin>0 1.01</origin>
+			<size>1 0.066</size>
 			<path>./art/bottom.png</path>
 			<color>FF00AA</color>
 		</image>
@@ -218,6 +239,16 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>1 0.16</size>
 			<path>./art/top.png</path>
 			<color>FF00AA</color>
+		</image>
+
+		<image name="logo">
+			<origin>0 0.5</origin>
+			<pos>0.01 0.073</pos>
+			<maxSize>0.46 0.126</maxSize>
+		</image>
+
+		<image name="logo2">
+			<color>ffffffff</color>
 		</image>
 
 	</view>

@@ -23,9 +23,6 @@
 
 		<image name="logo">
 			<path>./art/system.svg</path>
-			<pos>0.266 0.074</pos>
-			<maxSize>0.460 0.126</maxSize>
-			<origin>0.5 0.5</origin>
 		</image>
 		
 		<image name="logo2" extra="true">
@@ -33,7 +30,6 @@
 			<pos>0.874 0.074</pos>
 			<maxSize>0.460 0.126</maxSize>
 			<origin>0.5 0.5</origin>
-			<color>bbbbbb</color>
 		</image>
 
 	</view>
@@ -42,10 +38,6 @@
 	</view>
 
 	<view name="detailed">
-
-		<image name="background">
-			<path>./../art/gamegirl_nospacebook.png</path>
-		</image>
 
 		<image name="md_image">
 			<pos>0.635 0.43</pos>
@@ -60,14 +52,6 @@
 		<text name="md_lbl_releasedate, md_lbl_genre, md_genre, md_lbl_developer, md_developer, md_lbl_players, md_players">
 			<pos>1 1</pos>
 		</text>
-
-		<image name="md_description_image" extra="true">
-			<path>./../art/bottom.png</path>
-			<pos>0.520 0.73</pos>
-			<size>0.48 0.2</size>
-			<origin>0 0</origin>
-			<color>FF00AAcc</color>
-		</image>
 
 		<text name="md_description">
 			<fontSize>0.03</fontSize>
