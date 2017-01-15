@@ -1,6 +1,6 @@
 <!--
 Theme: LIEB
-version: 0.2.4
+version: 0.2.5
 author: Benedict Jaeggi (ben0bi)
 
 based on Carbon
@@ -162,12 +162,12 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<text name="md_lbl_players, md_players">
-			<pos>0.85 0.115</pos>
+			<pos>0.847 0.115</pos>
 			<size>0.09 0</size>
 		</text>
 
 		<text name="md_players">
-			<pos>0.90 0.115</pos>
+			<pos>0.897 0.115</pos>
 			<size>0.02 0</size>
 		</text>
 
