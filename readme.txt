@@ -1,3 +1,7 @@
+Theme "esLIEB" by ben0bi @ Jan.2017
+
+**************************************************************************************************
+
 Theme 'carbon' v2.4 - 08-16-2016 by Rookervik
 based on simple(c) Nils Bonenberger - nilsbyte@nilsbyte.de - http://blog.nilsbyte.de/
 For use with EmulationStation (http://www.emulationstation.org/)
