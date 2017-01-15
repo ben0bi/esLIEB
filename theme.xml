@@ -41,6 +41,7 @@
 		<image name="md_image_controller" extra="true">
 			<path>./art/controller.svg</path>
 		</image>
+
 	</view>
 
 	<view name="detailed">
