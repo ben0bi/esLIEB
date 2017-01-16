@@ -31,8 +31,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<helpsystem name="help">
-			<textColor>33FF33</textColor>
-			<iconColor>33FF33</iconColor>
+			<textColor>FF33AA</textColor>
+			<iconColor>FF33AA</iconColor>
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
@@ -41,7 +41,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/centerfade.png</path>
-			<color>AA770050</color>
+			<color>AA006650</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
@@ -50,11 +50,11 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/bottom.png</path>
-			<color>00FF00c0</color>
+			<color>FF00AAc0</color>
 		</image>
 
 		<image name="ControllerOverlay" extra="true">
-			<color>00AA00FF</color>
+			<color>FF00AAFF</color>
 		</image>
 	</view>
 
@@ -69,8 +69,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>003300CC</selectorColor>
-			<selectedColor>33FF33</selectedColor>
+			<selectorColor>330033CC</selectorColor>
+			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -120,7 +120,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.001 0.73</pos>
 			<origin>0 0</origin>
 			<path>./art/bottom.png</path>
-			<color>00FF00c0</color>
+			<color>FF00AAc0</color>
 		</image>
 
 		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players, md_lbl_releasedate">
@@ -180,8 +180,8 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>003300CC</selectorColor>
-			<selectedColor>33FF33</selectedColor>
+			<selectorColor>330033CC</selectorColor>
+			<selectedColor>FF33AA</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -221,8 +221,8 @@ Element color: Search and replace colors. Do not use spaces!
 	<view name="basic, detailed">
 
 		<helpsystem name="help">
-			<textColor>33FF33</textColor>
-			<iconColor>33FF33</iconColor>
+			<textColor>FF33AA</textColor>
+			<iconColor>FF33AA</iconColor>
 		</helpsystem>
 
 		<image name="bottom" extra="true">
@@ -230,7 +230,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 1.01</origin>
 			<size>1 0.066</size>
 			<path>./art/bottom.png</path>
-			<color>00FF00c1</color>
+			<color>FF00AAc1</color>
 		</image>
 
 		<image name="top" extra="true">
@@ -238,7 +238,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 0</origin>
 			<size>1 0.16</size>
 			<path>./art/top.png</path>
-			<color>00FF00c1</color>
+			<color>FF00AAc1</color>
 		</image>
 
 		<image name="logo">
@@ -252,4 +252,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 	</view>
+
+
 </theme>
