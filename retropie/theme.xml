@@ -55,9 +55,18 @@
 
 		<text name="md_description">
 			<fontSize>0.03</fontSize>
-			<size>0.404 0.3</size>
-			<pos>0.543 0.75</pos>
+			<size>0.45 0.15</size>
+			<pos>0.35 0.01</pos>
+			<color>FFAA66FF</color>
 		</text>
+
+		<image name="md_description_image">
+			<pos>10 10</pos>
+		</image>
+
+		<textlist name="gamelist">
+			<size>0.46 0.754</size>
+		</textlist>
 	</view>
 
 </theme>

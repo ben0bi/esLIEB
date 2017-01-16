@@ -15,8 +15,7 @@
 		
 		<image name="logo">
 			<path>./art/system.svg</path>
-        </image>
-		
+	        </image>	
 	</view>
 
 	<view name="basic, detailed">

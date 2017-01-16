@@ -56,7 +56,6 @@ Element color: Search and replace colors. Do not use spaces!
 		<image name="ControllerOverlay" extra="true">
 			<color>FF00AAFF</color>
 		</image>
-
 	</view>
 
 	<view name="basic">
@@ -76,8 +75,8 @@ Element color: Search and replace colors. Do not use spaces!
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.030</fontSize>
-			<pos>0.01 0.18</pos>
-			<size>0.450 0.73</size>
+			<pos>0.001 0.168</pos>
+			<size>0.480 0.73</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<forceUppercase>1</forceUppercase>
@@ -118,7 +117,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<image name="md_description_image" extra="true">
 			<tile>false</tile>
 			<size>0.48 0.2</size>
-			<pos>0.52 0.73</pos>
+			<pos>0.001 0.73</pos>
 			<origin>0 0</origin>
 			<path>./art/bottom.png</path>
 			<color>FF00AAc0</color>
@@ -176,8 +175,8 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
-			<size>0.467 0.16</size>
-			<pos>0.530 0.746</pos>
+			<size>0.46 0.16</size>
+			<pos>0.015 0.746</pos>
 		</text>
 
 		<textlist name="gamelist">
@@ -188,7 +187,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<forceUppercase>1</forceUppercase>
 			<pos>0.001 0.168</pos>
-			<size>0.45 0.754</size>
+			<size>0.48 0.55</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.02</horizontalMargin>
 			<fontSize>0.03</fontSize>
