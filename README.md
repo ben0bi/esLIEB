@@ -15,8 +15,8 @@ Green: 	LIEB_green.xml	--> Computerish green.
 
 Supported Systems:
 
-+ <img src="http://ben0bi.github.io/esLIEB/desktop/art/controller.svg" width="70" /> Desktop (same as pixeldesktop)  
-+ <img src="http://ben0bi.github.io/esLIEB/retropie/art/controller.svg" width="70" /> RetroPie Settings  
-+ <img src="http://ben0bi.github.io/esLIEB/nes/art/controller.svg" width="70" /> Nintendo Entertainment System  
-+ <img src="http://ben0bi.github.io/esLIEB/snes/art/controller.svg" width="70" /> Super Nintendo  
-+ <img src="http://ben0bi.github.io/esLIEB/mastersystem/art/controller.svg" width="70" border="0"/> Sega Master System  
++ <img src="http://ben0bi.github.io/esLIEB/desktop/art/system.svg" width="70" /> Desktop (same as pixeldesktop)  
++ <img src="http://ben0bi.github.io/esLIEB/retropie/art/system.svg" width="70" /> RetroPie Settings  
++ <img src="http://ben0bi.github.io/esLIEB/nes/art/system.svg" width="70" /> Nintendo Entertainment System  
++ <img src="http://ben0bi.github.io/esLIEB/snes/art/system.svg" width="70" /> Super Nintendo  
++ <img src="http://ben0bi.github.io/esLIEB/mastersystem/art/system.svg" width="70" border="0"/> Sega Master System  
