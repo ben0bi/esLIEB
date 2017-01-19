@@ -27,6 +27,7 @@ Supported Systems (Not tested):
 
 + <img src="http://ben0bi.github.io/esLIEB/3do/art/system.svg" width="70" border="0"/> 3DO  
 + <img src="http://ben0bi.github.io/esLIEB/ags/art/system.svg" width="70" border="0"/> Adventure Game System  
-+ <img src="http://ben0bi.github.io/esLIEB/amstradcpc/art/system.svg" width="70" /> AmstradCPC    
++ <img src="http://ben0bi.github.io/esLIEB/amstradcpc/art/system.svg" width="70" /> AmstradCPC  
 + <img src="http://ben0bi.github.io/esLIEB/amiga/art/system.svg" width="70" /> Amiga  
-+ <img src="http://ben0bi.github.io/esLIEB/atari800/art/system.svg" width="70" border="0"/> Atari 800  
++ <img src="http://ben0bi.github.io/esLIEB/apple2/art/system.svg" width="70" /> Apple 2  
++ <img src="http://ben0bi.github.io/esLIEB/arcade/art/system.svg" width="70" border="0"/> Arcade  
