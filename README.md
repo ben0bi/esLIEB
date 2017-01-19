@@ -13,10 +13,15 @@ Pink:  	LIEB_pink.xml 	--> Because it is a girl in a spaceship. I heard girls lo
 Rose:  	LIEB_rose.xml 	--> The second girly theme, based on pink.  
 Green: 	LIEB_green.xml	--> Computerish green.  
 
-Supported Systems:
+Supported Systems (Tested):
 
 + <img src="http://ben0bi.github.io/esLIEB/desktop/art/system.svg" width="70" /> Desktop (same as pixeldesktop)  
 + <img src="http://ben0bi.github.io/esLIEB/retropie/art/system.svg" width="70" /> RetroPie Settings  
 + <img src="http://ben0bi.github.io/esLIEB/nes/art/system.svg" width="70" /> Nintendo Entertainment System  
 + <img src="http://ben0bi.github.io/esLIEB/snes/art/system.svg" width="70" /> Super Nintendo  
 + <img src="http://ben0bi.github.io/esLIEB/mastersystem/art/system.svg" width="70" border="0"/> Sega Master System  
+
+Supported Systems (Not tested):
+
++ <img src="http://ben0bi.github.io/esLIEB/amstradcpc/art/system.svg" width="70" /> AmstradCPC    
++ <img src="http://ben0bi.github.io/esLIEB/amiga/art/system.svg" width="70" /> Amiga  
