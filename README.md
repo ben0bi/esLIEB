@@ -1,5 +1,6 @@
 # esLIEB
 Theme for emulationstation, featuring that gaming girl in a spaceship.
+The theme is based on Carbon. Unsupported systems will show up in the Carbon look.
 
 ![That gaming girl in a spaceship](art/originalgamegirl.png)
 
@@ -24,6 +25,8 @@ Supported Systems (Tested):
 
 Supported Systems (Not tested):
 
++ <img src="http://ben0bi.github.io/esLIEB/3do/art/system.svg" width="70" border="0"/> 3DO  
++ <img src="http://ben0bi.github.io/esLIEB/ags/art/system.svg" width="70" border="0"/> Adventure Game System  
 + <img src="http://ben0bi.github.io/esLIEB/amstradcpc/art/system.svg" width="70" /> AmstradCPC    
 + <img src="http://ben0bi.github.io/esLIEB/amiga/art/system.svg" width="70" /> Amiga  
 + <img src="http://ben0bi.github.io/esLIEB/atari800/art/system.svg" width="70" border="0"/> Atari 800  
