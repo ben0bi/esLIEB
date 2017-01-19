@@ -20,8 +20,10 @@ Supported Systems (Tested):
 + <img src="http://ben0bi.github.io/esLIEB/nes/art/system.svg" width="70" /> Nintendo Entertainment System  
 + <img src="http://ben0bi.github.io/esLIEB/snes/art/system.svg" width="70" /> Super Nintendo  
 + <img src="http://ben0bi.github.io/esLIEB/mastersystem/art/system.svg" width="70" border="0"/> Sega Master System  
++ <img src="http://ben0bi.github.io/esLIEB/atari2600/art/system.svg" width="70" border="0"/> Atari 2600  
 
 Supported Systems (Not tested):
 
 + <img src="http://ben0bi.github.io/esLIEB/amstradcpc/art/system.svg" width="70" /> AmstradCPC    
 + <img src="http://ben0bi.github.io/esLIEB/amiga/art/system.svg" width="70" /> Amiga  
++ <img src="http://ben0bi.github.io/esLIEB/atari800/art/system.svg" width="70" border="0"/> Atari 800  
