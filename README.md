@@ -31,3 +31,9 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/amiga/art/system.svg" width="70" /> Amiga  
 + <img src="http://ben0bi.github.io/esLIEB/apple2/art/system.svg" width="70" /> Apple 2  
 + <img src="http://ben0bi.github.io/esLIEB/arcade/art/system.svg" width="70" border="0"/> Arcade  
++ <img src="http://ben0bi.github.io/esLIEB/atari800/art/system.svg" width="70" border="0"/> Atari 800  
++ <img src="http://ben0bi.github.io/esLIEB/atari5200/art/system.svg" width="70" border="0"/> Atari 5200  
++ <img src="http://ben0bi.github.io/esLIEB/atari7800/art/system.svg" width="70" border="0"/> Atari 7800  
++ <img src="http://ben0bi.github.io/esLIEB/atarijaguar/art/system.svg" width="70" border="0"/> Atari Jaguar  
++ <img src="http://ben0bi.github.io/esLIEB/atarilynx/art/system.svg" width="70" border="0"/> Atari Lynx  
++ <img src="http://ben0bi.github.io/esLIEB/atarist/art/system.svg" width="70" border="0"/> Atari ST  
