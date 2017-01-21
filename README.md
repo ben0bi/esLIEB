@@ -37,3 +37,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/atarijaguar/art/system.svg" width="70" border="0"/> Atari Jaguar  
 + <img src="http://ben0bi.github.io/esLIEB/atarilynx/art/system.svg" width="70" border="0"/> Atari Lynx  
 + <img src="http://ben0bi.github.io/esLIEB/atarist/art/system.svg" width="70" border="0"/> Atari ST  
++ <img src="http://ben0bi.github.io/esLIEB/bbcmicro/art/system.svg" width="70" border="0"/> BBC Micro  
++ <img src="http://ben0bi.github.io/esLIEB/c64/art/system.svg" width="70" border="0"/> C64  
++ <img src="http://ben0bi.github.io/esLIEB/channelf/art/system.svg" width="70" border="0"/> Channel F  
