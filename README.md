@@ -43,3 +43,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/coco/art/system.svg" width="70" border="0"/> Coco  
 + <img src="http://ben0bi.github.io/esLIEB/colecovision/art/system.svg" width="70" border="0"/> ColecoVision  
 + <img src="http://ben0bi.github.io/esLIEB/daphne/art/system.svg" width="70" border="0"/> Daphne  
++ <img src="http://ben0bi.github.io/esLIEB/dragon32/art/system.svg" width="70" border="0"/> Dragon 32  
++ <img src="http://ben0bi.github.io/esLIEB/dreamcast/art/system.svg" width="70" border="0"/> Sega DreamCast  
