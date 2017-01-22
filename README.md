@@ -57,4 +57,8 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/kodi/art/system.svg" width="70" border="0"/> Kodi  
 + <img src="http://ben0bi.github.io/esLIEB/love/art/system.svg" width="70" border="0"/> Löve  
 + <img src="http://ben0bi.github.io/esLIEB/macintosh/art/system.svg" width="70" border="0"/> Apple Macintosh  
++ <img src="http://ben0bi.github.io/esLIEB/mame/art/system.svg" width="70" border="0"/> Mame  
++ <img src="http://ben0bi.github.io/esLIEB/mame-advmame/art/system.svg" width="70" border="0"/> Mame (Advmame)  
++ <img src="http://ben0bi.github.io/esLIEB/mame-libretto/art/system.svg" width="70" border="0"/> Mame (Libretto)  
++ <img src="http://ben0bi.github.io/esLIEB/mame-mame4all/art/system.svg" width="70" border="0"/> Mame (Mame4All)  
 
