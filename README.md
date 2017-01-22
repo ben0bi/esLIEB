@@ -45,6 +45,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/daphne/art/system.svg" width="70" border="0"/> Daphne  
 + <img src="http://ben0bi.github.io/esLIEB/dragon32/art/system.svg" width="70" border="0"/> Dragon 32  
 + <img src="http://ben0bi.github.io/esLIEB/dreamcast/art/system.svg" width="70" border="0"/> Sega DreamCast  
-+ <img src="http://ben0bi.github.io/esLIEB/fba/art/system.svg" style="maxWidth: 70px; maxHeight: 30px;"  border="0"/> FBA  
++ <img src="http://ben0bi.github.io/esLIEB/fba/art/system.svg" width="70" height="30"  border="0"/> FBA  
 + <img src="http://ben0bi.github.io/esLIEB/fds/art/system.svg" width="70" border="0"/> Nintendo Famicon Disk System  
 + <img src="http://ben0bi.github.io/esLIEB/gameandwatch/art/system.svg" width="70" border="0"/> Nintendo Game & Watch  
