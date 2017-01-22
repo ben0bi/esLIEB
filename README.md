@@ -59,7 +59,7 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/macintosh/art/system.svg" width="70" border="0"/> Apple Macintosh  
 + <img src="http://ben0bi.github.io/esLIEB/mame/art/system.svg" width="70" border="0"/> Mame  
 + <img src="http://ben0bi.github.io/esLIEB/mame-advmame/art/system.svg" width="70" border="0"/> Mame (Advmame)  
-+ <img src="http://ben0bi.github.io/esLIEB/mame-libretto/art/system.svg" width="70" border="0"/> Mame (Libretto)  
++ <img src="http://ben0bi.github.io/esLIEB/mame-libretro/art/system.svg" width="70" border="0"/> Mame (Libretro)  
 + <img src="http://ben0bi.github.io/esLIEB/mame-mame4all/art/system.svg" width="70" border="0"/> Mame (Mame4All)  
 + <img src="http://ben0bi.github.io/esLIEB/megadrive/art/system.svg" width="70" border="0"/> Sega MegaDrive  
 + <img src="http://ben0bi.github.io/esLIEB/mess/art/system.svg" width="70" border="0"/> Mess  
