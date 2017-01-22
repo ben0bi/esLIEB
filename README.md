@@ -40,3 +40,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/bbcmicro/art/system.svg" width="70" border="0"/> BBC Micro  
 + <img src="http://ben0bi.github.io/esLIEB/c64/art/system.svg" width="70" border="0"/> C64  
 + <img src="http://ben0bi.github.io/esLIEB/channelf/art/system.svg" width="70" border="0"/> Channel F  
++ <img src="http://ben0bi.github.io/esLIEB/coco/art/system.svg" width="70" border="0"/> Coco  
++ <img src="http://ben0bi.github.io/esLIEB/colecovision/art/system.svg" width="70" border="0"/> ColecoVision  
++ <img src="http://ben0bi.github.io/esLIEB/daphne/art/system.svg" width="70" border="0"/> Daphne  
