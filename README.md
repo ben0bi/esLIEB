@@ -48,3 +48,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/fba/art/system.svg" width="70" height="30"  border="0"/> FBA  
 + <img src="http://ben0bi.github.io/esLIEB/fds/art/system.svg" width="70" border="0"/> Nintendo Famicon Disk System  
 + <img src="http://ben0bi.github.io/esLIEB/gameandwatch/art/system.svg" width="70" border="0"/> Nintendo Game & Watch  
++ <img src="http://ben0bi.github.io/esLIEB/gamegear/art/system.svg" width="70" border="0"/> Sega GameGear  
++ <img src="http://ben0bi.github.io/esLIEB/gb/art/system.svg" width="70" border="0"/> Nintendo GameBoy  
