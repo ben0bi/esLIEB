@@ -50,3 +50,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/gameandwatch/art/system.svg" width="70" border="0"/> Nintendo Game & Watch  
 + <img src="http://ben0bi.github.io/esLIEB/gamegear/art/system.svg" width="70" border="0"/> Sega GameGear  
 + <img src="http://ben0bi.github.io/esLIEB/gb/art/system.svg" width="70" border="0"/> Nintendo GameBoy  
++ <img src="http://ben0bi.github.io/esLIEB/gba/art/system.svg" width="70" border="0"/> Nintendo GameBoy Advance  
++ <img src="http://ben0bi.github.io/esLIEB/gbc/art/system.svg" width="70" border="0"/> Nintendo GameBoy Color  
