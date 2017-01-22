@@ -52,3 +52,9 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/gb/art/system.svg" width="70" border="0"/> Nintendo GameBoy  
 + <img src="http://ben0bi.github.io/esLIEB/gba/art/system.svg" width="70" border="0"/> Nintendo GameBoy Advance  
 + <img src="http://ben0bi.github.io/esLIEB/gbc/art/system.svg" width="70" border="0"/> Nintendo GameBoy Color  
++ <img src="http://ben0bi.github.io/esLIEB/genesis/art/system.svg" width="70" border="0"/> Sega Genesis  
++ <img src="http://ben0bi.github.io/esLIEB/intellivision/art/system.svg" width="70" border="0"/> Intellivision  
++ <img src="http://ben0bi.github.io/esLIEB/kodi/art/system.svg" width="70" border="0"/> Kodi  
++ <img src="http://ben0bi.github.io/esLIEB/love/art/system.svg" width="70" border="0"/> Löve  
++ <img src="http://ben0bi.github.io/esLIEB/macintosh/art/system.svg" width="70" border="0"/> Apple Macintosh  
+
