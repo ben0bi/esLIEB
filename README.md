@@ -64,4 +64,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/megadrive/art/system.svg" width="70" border="0"/> Sega MegaDrive  
 + <img src="http://ben0bi.github.io/esLIEB/mess/art/system.svg" width="70" border="0"/> Mess  
 + <img src="http://ben0bi.github.io/esLIEB/msx/art/system.svg" width="70" border="0"/> MSX  
++ <img src="http://ben0bi.github.io/esLIEB/n64/art/system.svg" width="70" border="0"/> Nintendo 64  
++ <img src="http://ben0bi.github.io/esLIEB/nds/art/system.svg" width="70" border="0"/> Nintendo DS  
 
