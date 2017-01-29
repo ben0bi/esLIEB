@@ -85,3 +85,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/sega32x/art/system.svg" width="70" border="0"/> Sega 32x  
 + <img src="http://ben0bi.github.io/esLIEB/segacd/art/system.svg" width="70" border="0"/> Sega CD  
 + <img src="http://ben0bi.github.io/esLIEB/sg-1000/art/system.svg" width="70" border="0"/> SG-1000  
++ <img src="http://ben0bi.github.io/esLIEB/steam/art/system.svg" width="70" border="0"/> Steam  
++ <img src="http://ben0bi.github.io/esLIEB/stratagus/art/system.svg" width="70" border="0"/> Stratagus  
++ <img src="http://ben0bi.github.io/esLIEB/supergrafx/art/system.svg" width="70" border="0"/> Supergrafx  
