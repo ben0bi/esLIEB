@@ -78,3 +78,4 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/psx/art/system.svg" width="70" border="0"/> Sony PlayStation  
 + <img src="http://ben0bi.github.io/esLIEB/ps2/art/system.svg" width="70" border="0"/> Sony PlayStation 2  
 + <img src="http://ben0bi.github.io/esLIEB/psp/art/system.svg" width="70" border="0"/> Sony PlayStation Portable  
++ <img src="http://ben0bi.github.io/esLIEB/residualvm/art/system.svg" width="70" border="0"/> ResidualVM  
