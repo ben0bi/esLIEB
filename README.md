@@ -97,3 +97,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/virtualboy/art/system.svg" width="70" border="0"/> VirtualBoy  
 + <img src="http://ben0bi.github.io/esLIEB/wonderswan/art/system.svg" width="70" border="0"/> Wonderswan  
 + <img src="http://ben0bi.github.io/esLIEB/wonderswancolor/art/system.svg" width="70" border="0"/> Wonderswan Color  
++ <img src="http://ben0bi.github.io/esLIEB/zmachine/art/system.svg" width="70" border="0"/> ZMachine  
++ <img src="http://ben0bi.github.io/esLIEB/zxspectrum/art/system.svg" width="70" border="0"/> ZX Spectrum  
