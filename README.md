@@ -88,3 +88,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/steam/art/system.svg" width="70" border="0"/> Steam  
 + <img src="http://ben0bi.github.io/esLIEB/stratagus/art/system.svg" width="70" border="0"/> Stratagus  
 + <img src="http://ben0bi.github.io/esLIEB/supergrafx/art/system.svg" width="70" border="0"/> Supergrafx  
++ <img src="http://ben0bi.github.io/esLIEB/tg16/art/system.svg" width="70" border="0"/> TurboGrafx16  
++ <img src="http://ben0bi.github.io/esLIEB/tg-cd/art/system.svg" width="70" border="0"/> TurboGrafxCD  
