@@ -95,3 +95,5 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/vectrex/art/system.svg" width="70" border="0"/> Vectrex  
 + <img src="http://ben0bi.github.io/esLIEB/videopac/art/system.svg" width="70" border="0"/> VideoPac  
 + <img src="http://ben0bi.github.io/esLIEB/virtualboy/art/system.svg" width="70" border="0"/> VirtualBoy  
++ <img src="http://ben0bi.github.io/esLIEB/wonderswan/art/system.svg" width="70" border="0"/> Wonderswan  
++ <img src="http://ben0bi.github.io/esLIEB/wonderswancolor/art/system.svg" width="70" border="0"/> Wonderswan Color  
