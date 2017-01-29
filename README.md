@@ -92,3 +92,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/tg-cd/art/system.svg" width="70" border="0"/> TurboGrafxCD  
 + <img src="http://ben0bi.github.io/esLIEB/ti99/art/system.svg" width="70" border="0"/> TI99  
 + <img src="http://ben0bi.github.io/esLIEB/trs80/art/system.svg" width="70" border="0"/> TRS80  
++ <img src="http://ben0bi.github.io/esLIEB/vectrex/art/system.svg" width="70" border="0"/> Vectrex  
++ <img src="http://ben0bi.github.io/esLIEB/videopac/art/system.svg" width="70" border="0"/> VideoPac  
++ <img src="http://ben0bi.github.io/esLIEB/virtualboy/art/system.svg" width="70" border="0"/> VirtualBoy  
