@@ -81,3 +81,7 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/residualvm/art/system.svg" width="70" border="0"/> ResidualVM  
 + <img src="http://ben0bi.github.io/esLIEB/samcoupe/art/system.svg" width="70" border="0"/> SAMcoupé  
 + <img src="http://ben0bi.github.io/esLIEB/saturn/art/system.svg" width="70" border="0"/> Sega Saturn  
++ <img src="http://ben0bi.github.io/esLIEB/scummvm/art/system.svg" width="70" border="0"/> SCUMM VM  
++ <img src="http://ben0bi.github.io/esLIEB/sega32x/art/system.svg" width="70" border="0"/> Sega 32x  
++ <img src="http://ben0bi.github.io/esLIEB/segacd/art/system.svg" width="70" border="0"/> Sega CD  
++ <img src="http://ben0bi.github.io/esLIEB/sg-1000/art/system.svg" width="70" border="0"/> SG-1000  
