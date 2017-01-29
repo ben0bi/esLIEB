@@ -71,4 +71,7 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/ngpc/art/system.svg" width="70" border="0"/> NeoGeo Pocket Color  
 + <img src="http://ben0bi.github.io/esLIEB/odyssey2/art/system.svg" width="70" border="0"/> Odyssey 2  
 + <img src="http://ben0bi.github.io/esLIEB/oric/art/system.svg" width="70" border="0"/> ORIC  
-
++ <img src="http://ben0bi.github.io/esLIEB/pc/art/system.svg" width="70" border="0"/> PC  
++ <img src="http://ben0bi.github.io/esLIEB/pce-cd/art/system.svg" width="70" border="0"/> PCE-CD  
++ <img src="http://ben0bi.github.io/esLIEB/pcengine/art/system.svg" width="70" border="0"/> PC Engine  
++ <img src="http://ben0bi.github.io/esLIEB/ports/art/system.svg" width="70" border="0"/> Ports  
