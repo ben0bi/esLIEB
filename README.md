@@ -69,4 +69,6 @@ Supported Systems (Not tested):
 + <img src="http://ben0bi.github.io/esLIEB/neogeo/art/system.svg" width="70" border="0"/> NeoGeo  
 + <img src="http://ben0bi.github.io/esLIEB/ngp/art/system.svg" width="70" border="0"/> NeoGeo Pocket  
 + <img src="http://ben0bi.github.io/esLIEB/ngpc/art/system.svg" width="70" border="0"/> NeoGeo Pocket Color  
++ <img src="http://ben0bi.github.io/esLIEB/odyssey2/art/system.svg" width="70" border="0"/> Odyssey 2  
++ <img src="http://ben0bi.github.io/esLIEB/oric/art/system.svg" width="70" border="0"/> ORIC  
 
