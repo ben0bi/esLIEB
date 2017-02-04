@@ -15,7 +15,8 @@
 		
 		<image name="logo">
 			<path>./art/system.svg</path>
-	        </image>	
+	        </image>
+		
 	</view>
 
 	<view name="basic, detailed">
@@ -33,7 +34,14 @@
 		
 	</view>
 
-	<view name="basic">		
+	<view name="basic">
+		<image name="md_image_system" extra="true">
+			<path>./art/system.svg</path>
+		</image>
+		<image name="md_image_controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+
 	</view>
 
 	<view name="detailed">
