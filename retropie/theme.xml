@@ -12,11 +12,11 @@
 			<path>./art/controller_gg.svg</path>
 			<!--<color>8b0000</color>-->
 		</image>
-
+		
 		<image name="logo">
 			<path>./art/system.svg</path>
-        </image>
-
+	        </image>
+		
 	</view>
 
 	<view name="basic, detailed">
@@ -31,42 +31,20 @@
 			<maxSize>0.460 0.126</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-
+		
 	</view>
 
 	<view name="basic">
+		<image name="md_image_system" extra="true">
+			<path>./art/system.svg</path>
+		</image>
+		<image name="md_image_controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+
 	</view>
 
 	<view name="detailed">
-
-		<image name="md_image">
-			<pos>0.635 0.43</pos>
-			<maxSize>0.12 0.12</maxSize>
-			<origin>0.5 0.5</origin>
-		</image>
-
-		<datetime name="md_releasedate">
-			<pos>1 1</pos>
-		</datetime>
-
-		<text name="md_lbl_releasedate, md_lbl_genre, md_genre, md_lbl_developer, md_developer, md_lbl_players, md_players">
-			<pos>1 1</pos>
-		</text>
-
-		<text name="md_description">
-			<fontSize>0.03</fontSize>
-			<size>0.45 0.15</size>
-			<pos>0.35 0.01</pos>
-			<color>FFAA66FF</color>
-		</text>
-
-		<image name="md_description_image">
-			<pos>10 10</pos>
-		</image>
-
-		<textlist name="gamelist">
-			<size>0.46 0.754</size>
-		</textlist>
 	</view>
-
+	
 </theme>
