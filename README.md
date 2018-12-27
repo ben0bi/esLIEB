@@ -2,6 +2,10 @@
 Theme for emulationstation, featuring that gaming girl in a spaceship.
 The theme is based on Carbon. Unsupported systems will show up in the Carbon look.
 
+WARNING: All my SVGs were tested on a 1920x1080 "wide" screen.
+They may not fit the right angles on your screen.
+You may need to re-align the Vectors, sorry. I used Inkscape.
+
 ![That gaming girl in a spaceship](art/originalgamegirl.png)
 
 There are several colourings, just overwrite the LIEB.xml file with the right file:
